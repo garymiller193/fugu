@@ -1,2 +1,3 @@
-# fugu
-Landing published by Deploy Service
+# Fugu
+
+Published by Deploy Service.
